@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/325611__shadydave__my-love-piano-loop.mp3-a93293110f0f8e80c036e40439fd0dbb.mp3str"
+
+[deps]
+
+source_file="res://Assets/325611__shadydave__my-love-piano-loop.mp3"
+dest_files=[ "res://.import/325611__shadydave__my-love-piano-loop.mp3-a93293110f0f8e80c036e40439fd0dbb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
